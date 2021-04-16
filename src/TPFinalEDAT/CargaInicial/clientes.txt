@@ -1,0 +1,36 @@
+DNI,43131040,Carlos,Villarroel,299550968,Astor Piazzola 555.
+DNI,41233199,Santiago,Campos,2991133910,Olascoaga 430.
+DNI,42888699,Sofia,Marcovesky,2990012139,Don Bosco 611.
+CI,1999201009,Washington,Alvarez,21332111,Artigas 1812.
+PSP,088102991,Facundo,Rodriguez,110028191,Alvear 999.
+CIN,771289190,Marie,Curie,901901291,Sarmiento 1100.
+RIC,911291011,Alan,Turing,112910011,Winden 2188.
+CC,166717271,Steve,Jobs,443211211,Zamora 82819.
+LC,1211321,Jose,De San Martin,22991910,Remedios de Escalada 1816.
+RG,019921111,Steve,Wozniak,99119291,Hunters Breeze 18112.
+LE,81818291,Manuel,Belgrano,18818181,20 de Junio 1813.
+DNI,11818281,Carl-Friedrich,Gauss,11213211,Berlin 1788.
+DNI,19912826,Leonardo,Da Vinci,23636461,Florencia 1466.
+CI,63646631,Rosalind,Franklin,76628882,Los Alamos 777.
+CI,53436221,Amy,Farrah Fowler,876434388,Atahualpa Yupanqui 898.
+DNI,847747332,Ada,Lovelace,76252411,Jose Fava 882.
+PSP,8273543,Albert,Einstein,65411342,Jose Domene 6423.
+PSP,77532211,Stephe,Wolfram,27365352,Av. Argentina 8819.
+PSP,6534342,Marcos,Galperin,7423232,Africa 66.
+DNI,333221,Isaac,Newton,54432222,Gravedad 8615.
+DNI,5433222,Galileo,Galilei,5433422,Roma 75.
+RIC,32221W22,Charles,Darwin,7654322,Magallanes 88.
+RIC,221AA39,Stephen,Hawking,7453536,Ruta Provincial Nro. 7 Km 12.
+DNI,8473738W,Nikola,Tesla,654345252,Las Palomas 600.
+LE,6662EM765,Elon,Musk,64345223,Marte 2050.
+CIN,725241,Bill,Gates,6423457,Sierra de la Ventana 881.
+PSP,7353422,Mark,Zuckerberg,11271811,Harvard 2003.
+DNI,2332112,Cristina,Fernandez,7141331,La Plata 2015.
+LE,553552,Rosa,Parks,5243322,Chos Malal 1112.
+DNI,6342342,Martin,Luther King,33123441,Roca 2113.
+LE,716161,Anakin,Skywalker,02191119,Palpatine 331.
+DNI,3624115,Obi-Wan,Kenobi,72525162,High Ground 221.
+LE,3525252,Padme,Amidala,3224433,Naboo 22111.
+LE,26161611,Frodo,Bolson,37521111,Bolson Cerrado.
+DNI,2211121,Aragorn,Mortensen,3992929,Gondor 2101.
+PSP,35336362,Leia,Organa,32211112,Alcorta 2211.

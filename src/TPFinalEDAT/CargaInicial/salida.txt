@@ -1,0 +1,458 @@
+
+AEROPUERTOS
+
+NQN
+AEP
+GIG
+COR
+SCL
+BSB
+UIO
+ASU
+GRU
+LIM
+SSA
+CTG
+BOG
+CCS
+MEX
+SRE
+MVD
+HAV
+MAD
+LCY
+FCO
+TXL
+IAH
+
+VUELOS
+
+AA2337
+AA2338
+AA2339
+LM2037
+GL3001
+GL3002
+GL3003
+AA1508
+EQ8890
+MX2316
+MX2317
+MX2318
+MX2319
+MX2320
+MX2336
+AA8800
+MD1232
+BL0556
+BL0557
+BL0558
+CB6789
+CB6790
+CB6791
+AA0099
+AA0100
+AM1000
+AM1001
+AM1002
+AM1003
+AM1004
+AL0001
+MX1200
+AM9000
+GO1200
+GO1201
+GO8888
+GO9999
+GO1771
+PR0888
+PR0889
+PR0988
+PR0188
+PR0788
+
+CLIENTES
+
+Nombre: Carlos, Apellido: Villarroel, DNI, 43131040
+Nombre: Santiago, Apellido: Campos, DNI, 41233199
+Nombre: Sofia, Apellido: Marcovesky, DNI, 42888699
+Nombre: Washington, Apellido: Alvarez, CI, 1999201009
+Nombre: Facundo, Apellido: Rodriguez, PSP, 088102991
+Nombre: Marie, Apellido: Curie, CIN, 771289190
+Nombre: Alan, Apellido: Turing, RIC, 911291011
+Nombre: Steve, Apellido: Jobs, CC, 166717271
+Nombre: Jose, Apellido: De San Martin, LC, 1211321
+Nombre: Steve, Apellido: Wozniak, RG, 019921111
+Nombre: Manuel, Apellido: Belgrano, LE, 81818291
+Nombre: Carl-Friedrich, Apellido: Gauss, DNI, 11818281
+Nombre: Leonardo, Apellido: Da Vinci, DNI, 19912826
+Nombre: Rosalind, Apellido: Franklin, CI, 63646631
+Nombre: Amy, Apellido: Farrah Fowler, CI, 53436221
+Nombre: Ada, Apellido: Lovelace, DNI, 847747332
+Nombre: Albert, Apellido: Einstein, PSP, 8273543
+Nombre: Stephe, Apellido: Wolfram, PSP, 77532211
+Nombre: Marcos, Apellido: Galperin, PSP, 6534342
+Nombre: Isaac, Apellido: Newton, DNI, 333221
+Nombre: Galileo, Apellido: Galilei, DNI, 5433222
+Nombre: Charles, Apellido: Darwin, RIC, 32221W22
+Nombre: Stephen, Apellido: Hawking, RIC, 221AA39
+Nombre: Nikola, Apellido: Tesla, DNI, 8473738W
+Nombre: Elon, Apellido: Musk, LE, 6662EM765
+Nombre: Bill, Apellido: Gates, CIN, 725241
+Nombre: Mark, Apellido: Zuckerberg, PSP, 7353422
+Nombre: Cristina, Apellido: Fernandez, DNI, 2332112
+Nombre: Rosa, Apellido: Parks, LE, 553552
+Nombre: Martin, Apellido: Luther King, DNI, 6342342
+Nombre: Anakin, Apellido: Skywalker, LE, 716161
+Nombre: Obi-Wan, Apellido: Kenobi, DNI, 3624115
+Nombre: Padme, Apellido: Amidala, LE, 3525252
+Nombre: Frodo, Apellido: Bolson, LE, 26161611
+Nombre: Aragorn, Apellido: Mortensen, DNI, 2211121
+Nombre: Leia, Apellido: Organa, PSP, 35336362
+
+PASAJES
+
+Cliente con tipo y nro documento: DNI, 43131040, compro el pasaje: Vuelo: AA2337, Asiento: 71
+Cliente con tipo y nro documento: DNI, 41233199, compro el pasaje: Vuelo: LM2037, Asiento: 100
+Cliente con tipo y nro documento: DNI, 42888699, compro el pasaje: Vuelo: MX2316, Asiento: 56
+Cliente con tipo y nro documento: DNI, 11818281, compro el pasaje: Vuelo: MX2316, Asiento: 57
+Cliente con tipo y nro documento: DNI, 19912826, compro el pasaje: Vuelo: MX2316, Asiento: 58
+Cliente con tipo y nro documento: DNI, 333221, compro el pasaje: Vuelo: MX2316, Asiento: 59
+Cliente con tipo y nro documento: DNI, 5433222, compro el pasaje: Vuelo: MX2316, Asiento: 60
+Cliente con tipo y nro documento: PSP, 088102991, compro el pasaje: Vuelo: AA2337, Asiento: 72
+Cliente con tipo y nro documento: PSP, 35336362, compro el pasaje: Vuelo: AA2337, Asiento: 73
+Cliente con tipo y nro documento: PSP, 7353422, compro el pasaje: Vuelo: AA2337, Asiento: 74
+Cliente con tipo y nro documento: PSP, 6534342, compro el pasaje: Vuelo: AA2337, Asiento: 75
+Cliente con tipo y nro documento: LE, 26161611, compro el pasaje: Vuelo: LM2037, Asiento: 101
+Cliente con tipo y nro documento: LE, 3525252, compro el pasaje: Vuelo: LM2037, Asiento: 102
+Cliente con tipo y nro documento: LE, 6662EM765, compro el pasaje: Vuelo: LM2037, Asiento: 103
+Cliente con tipo y nro documento: LE, 716161, compro el pasaje: Vuelo: LM2037, Asiento: 104
+Cliente con tipo y nro documento: LE, 553552, compro el pasaje: Vuelo: LM2037, Asiento: 105
+Cliente con tipo y nro documento: LE, 81818291, compro el pasaje: Vuelo: LM2037, Asiento: 106
+Cliente con tipo y nro documento: CI, 63646631, compro el pasaje: Vuelo: BL0556, Asiento: 001
+Cliente con tipo y nro documento: CI, 53436221, compro el pasaje: Vuelo: BL0556, Asiento: 003
+Cliente con tipo y nro documento: CI, 1999201009, compro el pasaje: Vuelo: BL0556, Asiento: 004
+Cliente con tipo y nro documento: DNI, 43131040, compro el pasaje: Vuelo: BL0556, Asiento: 005
+Cliente con tipo y nro documento: DNI, 43131040, compro el pasaje: Vuelo: CB6791, Asiento: 200
+Cliente con tipo y nro documento: PSP, 35336362, compro el pasaje: Vuelo: CB6791, Asiento: 200
+Cliente con tipo y nro documento: CI, 53436221, compro el pasaje: Vuelo: CB6791, Asiento: 200
+Cliente con tipo y nro documento: LE, 81818291, compro el pasaje: Vuelo: CB6791, Asiento: 200
+Cliente con tipo y nro documento: DNI, 43131040, compro el pasaje: Vuelo: EQ8890, Asiento: 005
+Cliente con tipo y nro documento: DNI, 41233199, compro el pasaje: Vuelo: EQ8890, Asiento: 006
+Cliente con tipo y nro documento: LE, 3525252, compro el pasaje: Vuelo: EQ8890, Asiento: 007
+Cliente con tipo y nro documento: LE, 6662EM765, compro el pasaje: Vuelo: EQ8890, Asiento: 008
+Cliente con tipo y nro documento: RIC, 32221W22, compro el pasaje: Vuelo: EQ8890, Asiento: 009
+Cliente con tipo y nro documento: DNI, 2211121, compro el pasaje: Vuelo: EQ8890, Asiento: 015
+Cliente con tipo y nro documento: DNI, 11818281, compro el pasaje: Vuelo: EQ8890, Asiento: 025
+Cliente con tipo y nro documento: RIC, 221AA39, compro el pasaje: Vuelo: EQ8890, Asiento: 035
+Cliente con tipo y nro documento: RIC, 32221W22, compro el pasaje: Vuelo: AM1004, Asiento: 045
+Cliente con tipo y nro documento: DNI, 2211121, compro el pasaje: Vuelo: AM1001, Asiento: A22
+Cliente con tipo y nro documento: DNI, 43131040, compro el pasaje: Vuelo: AM1001, Asiento: A23
+Cliente con tipo y nro documento: RG, 019921111, compro el pasaje: Vuelo: AM1001, Asiento: A24
+Cliente con tipo y nro documento: LC, 1211321, compro el pasaje: Vuelo: AM1001, Asiento: A25
+Cliente con tipo y nro documento: CI, 1999201009, compro el pasaje: Vuelo: AM1001, Asiento: A26
+Cliente con tipo y nro documento: PSP, 35336362, compro el pasaje: Vuelo: AM1001, Asiento: A27
+Cliente con tipo y nro documento: LE, 3525252, compro el pasaje: Vuelo: AM1001, Asiento: A28
+Cliente con tipo y nro documento: DNI, 3624115, compro el pasaje: Vuelo: AM1001, Asiento: A29
+Cliente con tipo y nro documento: LE, 716161, compro el pasaje: Vuelo: AM1001, Asiento: B22
+Cliente con tipo y nro documento: PSP, 7353422, compro el pasaje: Vuelo: AM1001, Asiento: B21
+Cliente con tipo y nro documento: RIC, 32221W22, compro el pasaje: Vuelo: AM1001, Asiento: B20
+Cliente con tipo y nro documento: DNI, 2211121, compro el pasaje: Vuelo: AM1004, Asiento: 046
+Cliente con tipo y nro documento: DNI, 43131040, compro el pasaje: Vuelo: AM1004, Asiento: 047
+Cliente con tipo y nro documento: RG, 019921111, compro el pasaje: Vuelo: AM1004, Asiento: 048
+Cliente con tipo y nro documento: LC, 1211321, compro el pasaje: Vuelo: AM1004, Asiento: 049
+Cliente con tipo y nro documento: CI, 1999201009, compro el pasaje: Vuelo: AM1004, Asiento: 041
+Cliente con tipo y nro documento: DNI, 43131040, compro el pasaje: Vuelo: AA8800, Asiento: Z01
+Cliente con tipo y nro documento: LC, 1211321, compro el pasaje: Vuelo: AA8800, Asiento: Z02
+Cliente con tipo y nro documento: CI, 1999201009, compro el pasaje: Vuelo: AA8800, Asiento: Z03
+Cliente con tipo y nro documento: DNI, 2211121, compro el pasaje: Vuelo: AA8800, Asiento: Z04
+Cliente con tipo y nro documento: RIC, 32221W22, compro el pasaje: Vuelo: AA8800, Asiento: Z05
+Cliente con tipo y nro documento: PSP, 7353422, compro el pasaje: Vuelo: AA8800, Asiento: Z06
+Cliente con tipo y nro documento: LE, 81818291, compro el pasaje: Vuelo: AA8800, Asiento: Z07
+Cliente con tipo y nro documento: DNI, 11818281, compro el pasaje: Vuelo: AA8800, Asiento: Z08
+Cliente con tipo y nro documento: RIC, 221AA39, compro el pasaje: Vuelo: AA8800, Asiento: Z09
+Cliente con tipo y nro documento: DNI, 43131040, compro el pasaje: Vuelo: MD1232, Asiento: W01
+Cliente con tipo y nro documento: LC, 1211321, compro el pasaje: Vuelo: MD1232, Asiento: W02
+Cliente con tipo y nro documento: CI, 1999201009, compro el pasaje: Vuelo: MD1232, Asiento: W03
+Cliente con tipo y nro documento: DNI, 2211121, compro el pasaje: Vuelo: MD1232, Asiento: W04
+Cliente con tipo y nro documento: RIC, 32221W22, compro el pasaje: Vuelo: MD1232, Asiento: W05
+Cliente con tipo y nro documento: PSP, 7353422, compro el pasaje: Vuelo: MD1232, Asiento: W06
+Cliente con tipo y nro documento: LE, 81818291, compro el pasaje: Vuelo: MD1232, Asiento: W07
+
+ESTADO FINAL DEL SISTEMA
+
+Aeropuertos:
+
+IAH
+LCY
+MAD
+FCO
+TXL
+AEP
+MEX
+GRU
+HAV
+CTG
+ASU
+MVD
+SRE
+CCS
+LIM
+BOG
+UIO
+SSA
+BSB
+GIG
+SCL
+COR
+NQN
+.............
+Vuelos:
+
+AA0099
+AA0100
+AA1508
+AA2337
+AA2338
+AA2339
+AA8800
+AL0001
+AM1000
+AM1001
+AM1002
+AM1003
+AM1004
+AM9000
+BL0556
+BL0557
+BL0558
+CB6789
+CB6790
+CB6791
+EQ8890
+GL3001
+GL3002
+GL3003
+GO1200
+GO1201
+GO1771
+GO8888
+GO9999
+LM2037
+MD1232
+MX1200
+MX2316
+MX2317
+MX2318
+MX2319
+MX2320
+MX2336
+PR0188
+PR0788
+PR0888
+PR0889
+PR0988
+.............
+Clientes:
+
+Nombre: Steve, Apellido: Jobs, CC, 166717271
+Nombre: Washington, Apellido: Alvarez, CI, 1999201009
+Nombre: Amy, Apellido: Farrah Fowler, CI, 53436221
+Nombre: Rosalind, Apellido: Franklin, CI, 63646631
+Nombre: Bill, Apellido: Gates, CIN, 725241
+Nombre: Marie, Apellido: Curie, CIN, 771289190
+Nombre: Carl-Friedrich, Apellido: Gauss, DNI, 11818281
+Nombre: Leonardo, Apellido: Da Vinci, DNI, 19912826
+Nombre: Aragorn, Apellido: Mortensen, DNI, 2211121
+Nombre: Cristina, Apellido: Fernandez, DNI, 2332112
+Nombre: Isaac, Apellido: Newton, DNI, 333221
+Nombre: Obi-Wan, Apellido: Kenobi, DNI, 3624115
+Nombre: Santiago, Apellido: Campos, DNI, 41233199
+Nombre: Sofia, Apellido: Marcovesky, DNI, 42888699
+Nombre: Carlos, Apellido: Villarroel, DNI, 43131040
+Nombre: Galileo, Apellido: Galilei, DNI, 5433222
+Nombre: Martin, Apellido: Luther King, DNI, 6342342
+Nombre: Nikola, Apellido: Tesla, DNI, 8473738W
+Nombre: Ada, Apellido: Lovelace, DNI, 847747332
+Nombre: Jose, Apellido: De San Martin, LC, 1211321
+Nombre: Frodo, Apellido: Bolson, LE, 26161611
+Nombre: Padme, Apellido: Amidala, LE, 3525252
+Nombre: Rosa, Apellido: Parks, LE, 553552
+Nombre: Elon, Apellido: Musk, LE, 6662EM765
+Nombre: Anakin, Apellido: Skywalker, LE, 716161
+Nombre: Manuel, Apellido: Belgrano, LE, 81818291
+Nombre: Facundo, Apellido: Rodriguez, PSP, 088102991
+Nombre: Leia, Apellido: Organa, PSP, 35336362
+Nombre: Marcos, Apellido: Galperin, PSP, 6534342
+Nombre: Mark, Apellido: Zuckerberg, PSP, 7353422
+Nombre: Stephe, Apellido: Wolfram, PSP, 77532211
+Nombre: Albert, Apellido: Einstein, PSP, 8273543
+Nombre: Steve, Apellido: Wozniak, RG, 019921111
+Nombre: Stephen, Apellido: Hawking, RIC, 221AA39
+Nombre: Charles, Apellido: Darwin, RIC, 32221W22
+Nombre: Alan, Apellido: Turing, RIC, 911291011
+.............
+Pasajes:
+
+Cliente DNI, 847747332 tiene los siguientes pasajes: 
+
+Cliente LE, 6662EM765 tiene los siguientes pasajes: 
+Vuelo: LM2037, Asiento: 103
+Vuelo: EQ8890, Asiento: 008
+
+Cliente PSP, 7353422 tiene los siguientes pasajes: 
+Vuelo: AA2337, Asiento: 74
+Vuelo: AM1001, Asiento: B21
+Vuelo: AA8800, Asiento: Z06
+Vuelo: MD1232, Asiento: W06
+
+Cliente RG, 019921111 tiene los siguientes pasajes: 
+Vuelo: AM1001, Asiento: A24
+Vuelo: AM1004, Asiento: 048
+
+Cliente LE, 81818291 tiene los siguientes pasajes: 
+Vuelo: LM2037, Asiento: 106
+Vuelo: CB6791, Asiento: 200
+Vuelo: AA8800, Asiento: Z07
+Vuelo: MD1232, Asiento: W07
+
+Cliente DNI, 19912826 tiene los siguientes pasajes: 
+Vuelo: MX2316, Asiento: 58
+
+Cliente PSP, 35336362 tiene los siguientes pasajes: 
+Vuelo: AA2337, Asiento: 73
+Vuelo: CB6791, Asiento: 200
+Vuelo: AM1001, Asiento: A27
+
+Cliente CIN, 771289190 tiene los siguientes pasajes: 
+
+Cliente DNI, 2332112 tiene los siguientes pasajes: 
+
+Cliente DNI, 43131040 tiene los siguientes pasajes: 
+Vuelo: AA2337, Asiento: 71
+Vuelo: BL0556, Asiento: 005
+Vuelo: CB6791, Asiento: 200
+Vuelo: EQ8890, Asiento: 005
+Vuelo: AM1001, Asiento: A23
+Vuelo: AM1004, Asiento: 047
+Vuelo: AA8800, Asiento: Z01
+Vuelo: MD1232, Asiento: W01
+
+Cliente DNI, 42888699 tiene los siguientes pasajes: 
+Vuelo: MX2316, Asiento: 56
+
+Cliente DNI, 11818281 tiene los siguientes pasajes: 
+Vuelo: MX2316, Asiento: 57
+Vuelo: EQ8890, Asiento: 025
+Vuelo: AA8800, Asiento: Z08
+
+Cliente PSP, 8273543 tiene los siguientes pasajes: 
+
+Cliente LE, 3525252 tiene los siguientes pasajes: 
+Vuelo: LM2037, Asiento: 102
+Vuelo: EQ8890, Asiento: 007
+Vuelo: AM1001, Asiento: A28
+
+Cliente LE, 26161611 tiene los siguientes pasajes: 
+Vuelo: LM2037, Asiento: 101
+
+Cliente CI, 63646631 tiene los siguientes pasajes: 
+Vuelo: BL0556, Asiento: 001
+
+Cliente LE, 716161 tiene los siguientes pasajes: 
+Vuelo: LM2037, Asiento: 104
+Vuelo: AM1001, Asiento: B22
+
+Cliente DNI, 41233199 tiene los siguientes pasajes: 
+Vuelo: LM2037, Asiento: 100
+Vuelo: EQ8890, Asiento: 006
+
+Cliente CC, 166717271 tiene los siguientes pasajes: 
+
+Cliente DNI, 2211121 tiene los siguientes pasajes: 
+Vuelo: EQ8890, Asiento: 015
+Vuelo: AM1001, Asiento: A22
+Vuelo: AM1004, Asiento: 046
+Vuelo: AA8800, Asiento: Z04
+Vuelo: MD1232, Asiento: W04
+
+Cliente PSP, 088102991 tiene los siguientes pasajes: 
+Vuelo: AA2337, Asiento: 72
+
+Cliente LE, 553552 tiene los siguientes pasajes: 
+Vuelo: LM2037, Asiento: 105
+
+Cliente CIN, 725241 tiene los siguientes pasajes: 
+
+Cliente CI, 1999201009 tiene los siguientes pasajes: 
+Vuelo: BL0556, Asiento: 004
+Vuelo: AM1001, Asiento: A26
+Vuelo: AM1004, Asiento: 041
+Vuelo: AA8800, Asiento: Z03
+Vuelo: MD1232, Asiento: W03
+
+Cliente DNI, 8473738W tiene los siguientes pasajes: 
+
+Cliente PSP, 77532211 tiene los siguientes pasajes: 
+
+Cliente RIC, 32221W22 tiene los siguientes pasajes: 
+Vuelo: EQ8890, Asiento: 009
+Vuelo: AM1004, Asiento: 045
+Vuelo: AM1001, Asiento: B20
+Vuelo: AA8800, Asiento: Z05
+Vuelo: MD1232, Asiento: W05
+
+Cliente PSP, 6534342 tiene los siguientes pasajes: 
+Vuelo: AA2337, Asiento: 75
+
+Cliente DNI, 5433222 tiene los siguientes pasajes: 
+Vuelo: MX2316, Asiento: 60
+
+Cliente CI, 53436221 tiene los siguientes pasajes: 
+Vuelo: BL0556, Asiento: 003
+Vuelo: CB6791, Asiento: 200
+
+Cliente RIC, 221AA39 tiene los siguientes pasajes: 
+Vuelo: EQ8890, Asiento: 035
+Vuelo: AA8800, Asiento: Z09
+
+Cliente DNI, 6342342 tiene los siguientes pasajes: 
+
+Cliente RIC, 911291011 tiene los siguientes pasajes: 
+
+Cliente LC, 1211321 tiene los siguientes pasajes: 
+Vuelo: AM1001, Asiento: A25
+Vuelo: AM1004, Asiento: 049
+Vuelo: AA8800, Asiento: Z02
+Vuelo: MD1232, Asiento: W02
+
+Cliente DNI, 333221 tiene los siguientes pasajes: 
+Vuelo: MX2316, Asiento: 59
+
+Cliente DNI, 3624115 tiene los siguientes pasajes: 
+Vuelo: AM1001, Asiento: A29
+
+.............
+Documentos de clientes ordenados por cantidad de pasajes comprados.
+Puesto 1:	 DNI, 43131040 Cantidad:	 8
+Puesto 2:	 PSP, 7353422 Cantidad:	 4
+Puesto 3:	 LE, 81818291 Cantidad:	 4
+Puesto 4:	 PSP, 35336362 Cantidad:	 3
+Puesto 5:	 DNI, 11818281 Cantidad:	 3
+Puesto 6:	 LE, 3525252 Cantidad:	 3
+Puesto 7:	 LE, 716161 Cantidad:	 2
+Puesto 8:	 DNI, 41233199 Cantidad:	 2
+Puesto 9:	 RG, 019921111 Cantidad:	 2
+Puesto 10:	 LE, 6662EM765 Cantidad:	 2
+Puesto 11:	 CI, 63646631 Cantidad:	 1
+Puesto 12:	 DNI, 42888699 Cantidad:	 1
+Puesto 13:	 DNI, 19912826 Cantidad:	 1
+Puesto 14:	 LE, 26161611 Cantidad:	 1
+Puesto 15:	 PSP, 8273543 Cantidad:	 0
+Puesto 16:	 CC, 166717271 Cantidad:	 0
+Puesto 17:	 DNI, 847747332 Cantidad:	 0
+Puesto 18:	 CIN, 771289190 Cantidad:	 0
+Puesto 19:	 DNI, 2332112 Cantidad:	 0
+Puesto 20:	 DNI, 2332112 Cantidad:	 0
+
+.............

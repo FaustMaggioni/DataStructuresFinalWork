@@ -1,0 +1,23 @@
+A: NQN, Neuquen, 02994440448.
+A: AEP, Buenos Aires, 01167838200.
+A: GIG, Rio de Janeiro, 221133213.
+A: COR, Cordoba, 01233421342.
+A: SCL, Santiago de Chile, 234410221.
+A: BSB, Brasilia, 1020111.
+A: UIO, Quito, 32144211.
+A: ASU, Asuncion, 22342121.
+A: GRU, San Pablo, 2214111.
+A: LIM, Lima, 232444511.
+A: SSA, Salvador de Bahia, 3245500.
+A: CTG, Cartagena, 334288.
+A: BOG, Bogota, 4442005.
+A: CCS, Caracas, 669929.
+A: MEX, Mexico DF, 3372667.
+A: SRE, Sucre, 45551003.
+A: MVD, Montevideo, 3321011.
+A: HAV, La Habana, 110322.
+A: MAD, Madrid, 23321001.
+A: LCY, Londres, 172312.
+A: FCO, Roma, 2087890.
+A: TXL, Berlin, 0200012.
+A: IAH, Houston, 1221110.
