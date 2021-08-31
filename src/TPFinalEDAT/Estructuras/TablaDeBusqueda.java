@@ -173,51 +173,6 @@ public class TablaDeBusqueda {
         return (tempIzq + Math.negateExact(tempDer));//balance del nodoActual n    
     }
 
-    /*public boolean eliminar(Comparable e) {
-        boolean res = false;
-        if (this.raiz != null) {
-            res = eliminarAux(this.raiz, null, e);
-        }
-        return res;
-    }
-
-    private boolean eliminarAux(NodoAVLDicc n, NodoAVLDicc padre, Comparable e) {
-        boolean res = false;
-        if (padre != null) {
-            padre.recalcularAltura();
-        }
-        n.recalcularAltura();
-        if (n != null) {
-            res = true;
-            if (n.getElem().compareTo(e) == 0) {
-                if (n.getIzq() == null && n.getDer() == null) {
-                    caso1(n, padre);
-                } else {
-                    if (n.getIzq() == null || n.getDer() == null) {
-                        caso2(n, padre);
-                    } else {
-                        caso3(n);
-                    }
-                }
-            } else {
-                if (e.compareTo(n.getElem()) < 0) {
-                    eliminarAux(n.getIzq(), n, e);
-                } else {
-                    eliminarAux(n.getDer(), n, e);
-                }
-            }
-        }if (padre != null) {
-            padre.recalcularAltura();
-        }
-        n.recalcularAltura();
-        int balanceN = n.balance();//balance del nodoActual n
-        if ((Math.abs(balanceN)) > 1) {
-            rotar(balanceN, n, padre);
-        }
-
-        return res;
-
-    }*/
     public boolean eliminar(Comparable clave) {
         boolean exito = false;
         if (this.raiz != null) {
